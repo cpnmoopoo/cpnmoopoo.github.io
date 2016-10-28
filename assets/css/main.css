@@ -715,17 +715,14 @@ hr {
 
 .col-1 {
   max-width: 300px;
-  margin: 0 10px;
-  background: pink; }
+  margin: 0 10px; }
 
 .col-2 {
   max-width: 620px;
-  margin: 0 10px;
-  background: honeydew; }
+  margin: 0 10px; }
 
 .col-50 {
-  width: 50%;
-  background: yellow; }
+  width: 50%; }
 
 @media (max-width: 640px) {
   .home-sections .flex {
