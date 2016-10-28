@@ -1,0 +1,21 @@
+mixin nav-content()
+  ul
+    li: a(href="#") About
+    li: a(href="#") YouTube
+    li: a(href="#") Articles
+    li: a(href="#") Notes
+    li: a(href="#") Contact
+
+.mobile-nav
+  +nav-content()
+
+header
+  .header-position
+    h1.logo Jesse Adams
+
+    nav.site-nav
+      +nav-content()
+
+    a(href="mailto:generalriddock@gmail.com").email-link +email me
+
+    .mobile-nav-toggle: span

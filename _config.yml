@@ -1,0 +1,3 @@
+name: Project115
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]

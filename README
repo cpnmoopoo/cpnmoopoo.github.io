@@ -1,0 +1,13 @@
+---------------------------
+         10-28-2016
+---------------------------
+Added header & colums with sass
+Added Javascript for mobile-nav-toggle
+
+Current Issue: Mobile-Nav forces logo down when extended
+~not sure how to fix - spent 4+ hours looking into it
+~will update with fix when I can find a solution :/
+
+---------------------------
+10-27-2016 : INITIAL COMMIT
+---------------------------
