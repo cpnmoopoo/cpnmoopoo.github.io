@@ -667,6 +667,8 @@ hr {
       display: flex; }
   .home-wrap .mobile-nav.is-open {
     display: block;
+    position: fixed;
+    top: 0;
     -webkit-transform: translateY(0%);
         -ms-transform: translateY(0%);
             transform: translateY(0%); } }
